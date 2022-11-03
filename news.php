@@ -388,8 +388,7 @@
   <!-- footer section -->
   <section class="container-fluid footer_section">
     <p>
-      &copy; 2019 All Rights Reserved. Design by
-      <a href="https://html.design/">Free Html Templates</a>
+      &copy; &copy; 2022 All Rights Reserved. Design by AdoptMe Company
     </p>
   </section>
   <!-- footer section -->

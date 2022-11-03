@@ -8,8 +8,8 @@
   <!-- Mobile Metas -->
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <!-- Site Metas -->
-  <meta name="keywords" content="" />
-  <meta name="description" content="" />
+  <meta name="keywords" content="adoção, cachorro, gatos, papagaios, doações"/>
+  <meta name="description" content="Site de adoção" />
   <meta name="author" content="" />
 
   <title>Adopt Me!</title>
@@ -121,16 +121,13 @@
                     <h1>
                       Encontre-nos <br>
                       <span>
-                        Nossos postos de op
+                      Nossa base de operação
                       </span>
 
                     </h1>
-                    <p>
-                      Muito bom, não tive problemas.
-                    </p>
                     <div>
                       <a href="">
-                        Buy Now
+                      prosseguir
                       </a>
                     </div>
                   </div>
@@ -660,9 +657,7 @@
     </div>
     <div class="health_carousel-container">
       <h2 class="text-uppercase">
-        Vitamins & Supplements
-
-
+       Tabela doação
       </h2>
       <div class="carousel-wrap layout_padding2">
         <div class="owl-carousel owl-2">
@@ -824,7 +819,7 @@
       </div>
       <div class="detail-box">
         <p>
-          Somos um grupo de pessoas que criaram uma solução para os animaizinhos sem um lar em Sorocaba SP xD
+          Somos um grupo de pessoas que criaram uma solução para os animaizinhos sem um lar em Sorocaba SP
         </p>
         <div class="d-flex justify-content-center">
           <a href="">
