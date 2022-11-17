@@ -51,13 +51,14 @@ body {
           transform: translateX(-50%);
   width: 50px;
   height: 5px;
-  background-color: #10e7f4;
+  background-color: #fceb07;
 }
 
 /*header section*/
 .hero_area {
-  height: 100vh;
+  height: 774px;
   background-image: url(../images/hero-bg.jpg);
+  background-size: cover;
 }
 
 .sub_page .hero_area {
@@ -66,6 +67,10 @@ body {
 
 .hero_area.sub_pages {
   height: auto;
+}
+
+.header_section {
+  background-color: #f4b710;
 }
 
 .header_section .top_contact-container {
@@ -262,7 +267,7 @@ a:focus {
 }
 
 .slider_section .detail-box h1 {
-  color: #2c2c2c;
+  color: #000000;
 }
 
 .slider_section .detail-box h1 span {
@@ -272,7 +277,7 @@ a:focus {
 }
 
 .slider_section .detail-box p {
-  color: #ffffff;
+  color: #000000;
 }
 
 .slider_section .detail-box a {
@@ -405,11 +410,11 @@ a:focus {
 }
 
 .feature_section .feature_container .box:hover .img-box {
-  border: 1px solid #10e7f4;
+  border: 1px solid #f4f010;
 }
 
 .feature_section .feature_container .box:hover .img-box svg {
-  fill: #10e7f4;
+  fill: #f4d210;
 }
 
 .discount_section {
@@ -438,7 +443,7 @@ a:focus {
 }
 
 .discount_section .detail-box h2 span {
-  color: #10e7f4;
+  color: #f4ca10;
 }
 
 .discount_section .detail-box p {
@@ -448,8 +453,8 @@ a:focus {
 .discount_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #10e7f4;
-  border: 1px solid #10e7f4;
+  background-color: #f4e510;
+  border: 1px solid #f4f010;
   color: #ffffff;
   margin-top: 35px;
 }
@@ -526,7 +531,7 @@ a:focus {
 }
 
 .health_section .box .btn_container a:hover {
-  background-color: #10e7f4;
+  background-color: #f4d210;
   color: #ffffff;
   border-color: transparent;
 }
@@ -562,7 +567,7 @@ a:focus {
 }
 
 .health_section .box .detail-box .text h6.price span {
-  color: #10e7f4;
+  color: #f4b710;
 }
 
 .health_section .owl-carousel .owl-nav.disabled {
@@ -581,7 +586,7 @@ a:focus {
 }
 
 .health_section .owl-carousel .owl-nav.disabled > div:hover {
-  background-color: #10e7f4;
+  background-color: #f4b710;
 }
 
 .health_section .owl-carousel .owl-nav.disabled .owl-prev {
@@ -673,7 +678,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #2deaf5;
+  color: #f5e82d;
 }
 
 .client_section .client_container .client_box .name h6 img {
@@ -692,7 +697,7 @@ a:focus {
   width: 20px;
   height: 20px;
   opacity: 1;
-  background-color: #10e7f4;
+  background-color: #f4e510;
   border-radius: 100%;
   position: relative;
 }
@@ -816,14 +821,14 @@ a:focus {
 .info_section .info_news form button {
   display: inline-block;
   padding: 7px 60px;
-  background-color: #10e7f4;
-  border: 1px solid #10e7f4;
+  background-color: #f4ca10;
+  border: 1px solid #f7ba15;
   color: #ffffff;
 }
 
 .info_section .info_news form button:hover {
   background-color: transparent;
-  color: #10e7f4;
+  color: #f4ca10;
 }
 
 /* footer section*/

@@ -37,7 +37,7 @@
 <body class="sub_page">
   <div class="hero_area">
     <!-- header section strats -->
-    <?php include "components/header.html"?>
+    <?php include "components/header.php"?>
     <!-- end header section -->
   </div>
 
@@ -49,7 +49,7 @@
       <div class="row">
         <div class="custom_heading-container ">
           <h2>
-            Request A call back
+           Solicitar uma chamada de volta
           </h2>
         </div>
       </div>
@@ -60,11 +60,11 @@
           <div class="form_contaier">
             <form>
               <div class="form-group">
-                <label for="exampleInputName1">Name</label>
+                <label for="exampleInputName1">Nome</label>
                 <input type="text" class="form-control" id="exampleInputName1">
               </div>
               <div class="form-group">
-                <label for="exampleInputNumber1">Phone Number</label>
+                <label for="exampleInputNumber1">Número de telefone</label>
                 <input type="text" class="form-control" id="exampleInputNumber1">
               </div>
 
@@ -73,18 +73,19 @@
                 <input type="email" class="form-control" id="exampleInputEmail1">
               </div>
               <div class="form-group ">
-                <label for="inputState">Select medicine</label>
+                <label for="inputState">Problemas</label>
                 <select id="inputState" class="form-control">
-                  <option selected>Medicine 1</option>
-                  <option selected>Medicine 2</option>
-                  <option selected>Medicine 3</option>
+                  <option selected>Problema na adoção </option>
+                  <option selected>Site com mau funcionamento</option>
+                  <option selected>Dúvida</option>
+                  <option selected>Feedback</option>
                 </select>
               </div>
               <div class="form-group">
-                <label for="exampleInputMessage">Message</label>
+                <label for="exampleInputMessage">Mensagem</label>
                 <input type="text" class="form-control" id="exampleInputMessage">
               </div>
-              <button type="submit" class="">Send</button>
+              <button type="submit" class="">Enviar</button>
             </form>
           </div>
         </div>
@@ -112,7 +113,7 @@
         <div class="col-md-3">
           <div class="info_contact">
             <h4>
-              Contact
+              Contato
             </h4>
             <div class="box">
               <div class="img-box">
@@ -120,7 +121,7 @@
               </div>
               <div class="detail-box">
                 <h6>
-                  +01 123567894
+                +01 4002-8922
                 </h6>
               </div>
             </div>
@@ -130,7 +131,7 @@
               </div>
               <div class="detail-box">
                 <h6>
-                  demo@gmail
+                 AdoptMe@gmail.com
                 </h6>
               </div>
             </div>
@@ -143,20 +144,19 @@
             </h4>
             <ul class="navbar-nav  ">
               <li class="nav-item active">
-                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html"> Sobre </a>
+                <a class="nav-link" href="about.php"> Sobre </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="medicine.html"> Doe rações </a>
-              </li>
-              
-              <li class="nav-item">
-                <a class="nav-link" href="news.html"> Notícias </a>
+                <a class="nav-link" href="medicine.php"> Doe rações </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contate-nos</a>
+                <a class="nav-link" href="news.php"> Notícias </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact.php">Contate-nos</a>
               </li>
             </ul>
           </div>
@@ -164,13 +164,13 @@
         <div class="col-md-6">
           <div class="info_news">
             <h4>
-              newsletter
+             Boletim de Notícias
             </h4>
             <form action="">
-              <input type="text" placeholder="Enter Your email">
+              <input type="text" placeholder="Insira seu email">
               <div class="d-flex justify-content-center justify-content-md-end mt-3">
                 <button>
-                  Subscribe
+                 Inscreva-se
                 </button>
               </div>
             </form>

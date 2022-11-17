@@ -37,7 +37,7 @@
 <body class="sub_page">
   <div class="hero_area">
     <!-- header section strats -->
-    <?php include "components/header.html"?>
+    <?php include "components/header.php"?>
     <!-- end header section -->
 
   </div>
@@ -52,20 +52,24 @@
           <div class="col-lg-3 col-md-5 offset-md-2">
             <div class="detail-box">
               <h2>
-                You get <br>
-                any medicine <br>
-                on
-                <span>
-                  10% discount
-                </span>
-
+                Doe ração<br>
               </h2>
+                 <h3>
+                Você fazendo uma colaboração para os animais abrigados<br>
+                irá nos ajudar <br>
+                não só a nós mas como os nossos bichinhos.<br>
+                 </h3>
+                <h2>
+                 <span>
+                  Conceito
+                 </span>
+                </h2>
               <p>
-                It is a long established fact that a reader will be distracted by
+                A ração doada será diretamente distribuida para nossos centros de adoção. 
               </p>
               <div>
                 <a href="">
-                  Buy Now
+                  Doar agora !!!
                 </a>
               </div>
             </div>
@@ -89,7 +93,7 @@
   <section class="health_section layout_padding">
     <div class="health_carousel-container">
       <h2 class="text-uppercase">
-        Vitamins & Supplements
+        Rações
 
 
       </h2>
@@ -232,7 +236,7 @@
     </div>
     <div class="d-flex justify-content-center">
       <a href="">
-        See more
+        Veja mais
       </a>
     </div>
   </section>
@@ -248,7 +252,7 @@
         <div class="col-md-3">
           <div class="info_contact">
             <h4>
-              Contact
+              Contatos
             </h4>
             <div class="box">
               <div class="img-box">
@@ -256,7 +260,7 @@
               </div>
               <div class="detail-box">
                 <h6>
-                  +01 123567894
+                 +01 4002-8922
                 </h6>
               </div>
             </div>
@@ -266,7 +270,7 @@
               </div>
               <div class="detail-box">
                 <h6>
-                  demo@gmail
+                 AdoptMe@gmail.com
                 </h6>
               </div>
             </div>
@@ -278,31 +282,33 @@
               Menu
             </h4>
             <ul class="navbar-nav  ">
-              <li class="nav-item active">
-                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+            <li class="nav-item active">
+                <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html"> About </a>
+                <a class="nav-link" href="about.php"> Sobre </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="medicine.html"> Medicine </a>
+                <a class="nav-link" href="medicine.php"> Doe rações </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="buy.html"> Online Buy </a>
+                <a class="nav-link" href="news.php"> Notícias </a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact.php">Contate-nos</a>
             </ul>
           </div>
         </div>
         <div class="col-md-6">
           <div class="info_news">
             <h4>
-              newsletter
+            Boletim de Notícias
             </h4>
             <form action="">
-              <input type="text" placeholder="Enter Your email">
+              <input type="text" placeholder="Insira seu email">
               <div class="d-flex justify-content-center justify-content-md-end mt-3">
                 <button>
-                  Subscribe
+                Inscreva-se
                 </button>
               </div>
             </form>

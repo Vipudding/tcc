@@ -37,7 +37,7 @@
 <body>
   <div class="hero_area">
     <!-- header section strats -->
-    <?php include "components/header.html"?>
+    <?php include "components/header.php"?>
     <!-- end header section -->
     <!-- slider section -->
     <section class=" slider_section position-relative">
@@ -66,7 +66,7 @@
 
                     </h1>
                     <p>
-                      Em vez de você ficar pensando nele Em vez de você viver chorando por ele Pense em mim, chore por mim Liga pra mim, não, não liga pra ele
+                      Fique a vontade para escolher seu pet
                     </p>
                     <div>
                       <a href="">
@@ -924,7 +924,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div>d
 
 
     </div>
@@ -963,8 +963,8 @@
               <div class="form-group ">
                 <label for="inputState">Informe o problema</label>
                 <select id="inputState" class="form-control">
-                  <option selected>Problema em adotar</option>
-                  <option selected>Site com mal funcionamento</option>
+                  <option selected>Problema na adoção</option>
+                  <option selected>Site com mau funcionamento</option>
                   <option selected>Dúvida</option>
                   <option selected>Feedback</option>
                 </select>
@@ -1008,7 +1008,7 @@
               </div>
               <div class="detail-box">
                 <h6>
-                  +01 4002-8922
+                 +01 4002-8922
                 </h6>
               </div>
             </div>
@@ -1030,17 +1030,20 @@
               Menu
             </h4>
             <ul class="navbar-nav  ">
-              <li class="nav-item active">
-                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+            <li class="nav-item active">
+                <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html"> Sobre </a>
+                <a class="nav-link" href="about.php"> Sobre </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="medicine.html"> Localização </a>
+                <a class="nav-link" href="medicine.php"> Doe rações </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="buy.html"> Animais </a>
+                <a class="nav-link" href="news.php"> Notícias </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact.php">Contate-nos</a>
               </li>
             </ul>
           </div>

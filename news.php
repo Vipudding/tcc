@@ -37,7 +37,7 @@
 <body class="sub_page">
   <div class="hero_area">
     <!-- header section strats -->
-    <?php include "components/header.html"?>
+    <?php include "components/header.php"?>
     </header>
     <!-- end header section -->
   </div>
@@ -47,7 +47,9 @@
     <div class="container">
       <div class="custom_heading-container ">
         <h2>
-          News
+        Notícias<br>
+        e<br>
+        Informações importantes<br>
         </h2>
       </div>
 
@@ -318,7 +320,7 @@
         <div class="col-md-3">
           <div class="info_contact">
             <h4>
-              Contact
+              Contato
             </h4>
             <div class="box">
               <div class="img-box">
@@ -326,7 +328,7 @@
               </div>
               <div class="detail-box">
                 <h6>
-                  +01 123567894
+                 +01 4002-8922
                 </h6>
               </div>
             </div>
@@ -336,7 +338,7 @@
               </div>
               <div class="detail-box">
                 <h6>
-                  demo@gmail
+                 AdoptMe@gmail.com
                 </h6>
               </div>
             </div>
@@ -348,17 +350,21 @@
               Menu
             </h4>
             <ul class="navbar-nav  ">
-              <li class="nav-item active">
-                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+            <li class="nav-item active">
+                <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html"> About </a>
+                <a class="nav-link" href="about.php"> Sobre </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="medicine.html"> Medicine </a>
+                <a class="nav-link" href="medicine.php"> Doe rações </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="buy.html"> Online Buy </a>
+                <a class="nav-link" href="news.php"> Notícias </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact.php">Contate-nos</a>
+              </li>
               </li>
             </ul>
           </div>
@@ -366,13 +372,13 @@
         <div class="col-md-6">
           <div class="info_news">
             <h4>
-              newsletter
+             Boletim de Notícias
             </h4>
             <form action="">
-              <input type="text" placeholder="Enter Your email">
+              <input type="text" placeholder="Insira seu email">
               <div class="d-flex justify-content-center justify-content-md-end mt-3">
                 <button>
-                  Subscribe
+                 Inscreva-se
                 </button>
               </div>
             </form>
