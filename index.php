@@ -392,10 +392,9 @@
     <div class="health_carousel-container">
       <h2 class="text-uppercase">
         Animais em adoção
-
       </h2>
-      <div class="carousel-wrap layout_padding2">
-        <div class="owl-carousel">
+      <div class="carousel-wrap layout_padding">
+        <div class="owl-carousel owl-2">
           <div class="item">
             <div class="box">
               <div class="btn_container">
@@ -404,38 +403,7 @@
                 </a>
               </div>
               <div class="img-box">
-                <img src="images/p-1.jpg" alt="">
-              </div>
-              <div class="detail-box">
-                <div class="star_container">
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-
-                </div>
-                <div class="text">
-                  <h6>
-                    Health
-                  </h6>
-                  <h6 class="price">
-                    <span>
-                      $
-                    </span>
-                    30
-                  </h6>
-                </div>
-              </div>
-            </div>
-            <div class="box">
-              <div class="btn_container">
-                <a href="">
-                  Buy Now
-                </a>
-              </div>
-              <div class="img-box">
-                <img src="images/p-5.jpg" alt="">
+                <img src="images/p-1.jpg" alt="" />
               </div>
               <div class="detail-box">
                 <div class="star_container">
@@ -468,38 +436,7 @@
                 </a>
               </div>
               <div class="img-box">
-                <img src="images/p-2.jpg" alt="">
-              </div>
-              <div class="detail-box">
-                <div class="star_container">
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-
-                </div>
-                <div class="text">
-                  <h6>
-                    Health
-                  </h6>
-                  <h6 class="price">
-                    <span>
-                      $
-                    </span>
-                    30
-                  </h6>
-                </div>
-              </div>
-            </div>
-            <div class="box">
-              <div class="btn_container">
-                <a href="">
-                  Buy Now
-                </a>
-              </div>
-              <div class="img-box">
-                <img src="images/p-5.jpg" alt="">
+                <img src="images/p-2.jpg" alt="" />
               </div>
               <div class="detail-box">
                 <div class="star_container">
@@ -532,38 +469,7 @@
                 </a>
               </div>
               <div class="img-box">
-                <img src="images/p-3.jpg" alt="">
-              </div>
-              <div class="detail-box">
-                <div class="star_container">
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-
-                </div>
-                <div class="text">
-                  <h6>
-                    Health
-                  </h6>
-                  <h6 class="price">
-                    <span>
-                      $
-                    </span>
-                    30
-                  </h6>
-                </div>
-              </div>
-            </div>
-            <div class="box">
-              <div class="btn_container">
-                <a href="">
-                  Buy Now
-                </a>
-              </div>
-              <div class="img-box">
-                <img src="images/p-5.jpg" alt="">
+                <img src="images/p-3.jpg" alt="" />
               </div>
               <div class="detail-box">
                 <div class="star_container">
@@ -596,38 +502,7 @@
                 </a>
               </div>
               <div class="img-box">
-                <img src="images/p-4.jpg" alt="">
-              </div>
-              <div class="detail-box">
-                <div class="star_container">
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star" aria-hidden="true"></i>
-                  <i class="fa fa-star-o" aria-hidden="true"></i>
-
-                </div>
-                <div class="text">
-                  <h6>
-                    Health
-                  </h6>
-                  <h6 class="price">
-                    <span>
-                      $
-                    </span>
-                    30
-                  </h6>
-                </div>
-              </div>
-            </div>
-            <div class="box">
-              <div class="btn_container">
-                <a href="">
-                  Buy Now
-                </a>
-              </div>
-              <div class="img-box">
-                <img src="images/p-5.jpg" alt="">
+                <img src="images/p-4.jpg" alt="" />
               </div>
               <div class="detail-box">
                 <div class="star_container">
@@ -659,7 +534,7 @@
       <h2 class="text-uppercase">
        Tabela doação
       </h2>
-      <div class="carousel-wrap layout_padding2">
+      <div class="carousel-wrap layout_padding">
         <div class="owl-carousel owl-2">
           <div class="item">
             <div class="box">
@@ -924,7 +799,7 @@
             </div>
           </div>
         </div>
-      </div>d
+      </div>
 
 
     </div>
